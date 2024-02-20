@@ -2,5 +2,6 @@
     "ansible.python.interpreterPath": "/usr/bin/python3",
     "files.associations": {
         "main.yml": "ansible"
-    }
+    },
+    "ansible.lightspeed.modelIdOverride": "49ed974e-fb34-4957-b2bd-2f4fa4f7f587<|sepofid|>granite-3b"
 }
